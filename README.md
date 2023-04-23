@@ -119,7 +119,9 @@ activity_main.xml:
 
 ## Output:
 
+![output](https://github.com/mudipavan/Ex.No-2-b-Font-Size/blob/main/a.jpg)
 
+![output](https://github.com/mudipavan/Ex.No-2-b-Font-Size/blob/main/a1.jpg)
 
 ## Result:
 Thus, the program for android application, Font Size was executed successfully using Android Studio.
